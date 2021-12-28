@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 '''this program plots data from a given csv file'''
+
 data_file = open('/home/shlava/Downloads/Output_Shalva1.csv', newline='')
 
 def line_to_list(line):
